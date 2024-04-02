@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PL">
+    <local:UserLevelCollection x:Key="UserLevelKey" />
+    <local:ConvertIdToContent x:Key="ConverIdToContentKey"/>
+    <local:IsEnabled x:Key="IsEnabled"/>
+    <local:IsVisible x:Key="IsVisible"/>
+    <local:NameOfViewer x:Key="NameConveter"/>
+    <local:NameToProfilePicConverter x:Key="NameToProfilePicConverter"/>
+    <local:AliasToBannerPicConverter x:Key="AliasToBannerPicConverter"/>
+</ResourceDictionary>
