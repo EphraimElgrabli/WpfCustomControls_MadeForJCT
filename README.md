@@ -2,7 +2,7 @@
 Welcome to my GitHub repository containing a collection of custom controls for WPF (C#) with a modern design twist! 🙌 These controls are specifically designed to enhance the visual appeal and functionality of your WPF applications. 😊
 ## Usage 📝
 To use these custom controls in your WPF application, simply add the following code to your App.xaml file:
-```
+```xaml
 <ResourceDictionary>
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="Theme/WarningButtons.xaml"/>
